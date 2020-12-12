@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/unimelb/static/css/main.bab0b925.chunk.css",
+    "main.js": "/unimelb/static/js/main.d3f6bf8d.chunk.js",
+    "main.js.map": "/unimelb/static/js/main.d3f6bf8d.chunk.js.map",
+    "runtime-main.js": "/unimelb/static/js/runtime-main.bc052fab.js",
+    "runtime-main.js.map": "/unimelb/static/js/runtime-main.bc052fab.js.map",
+    "static/js/2.28d7f4f2.chunk.js": "/unimelb/static/js/2.28d7f4f2.chunk.js",
+    "static/js/2.28d7f4f2.chunk.js.map": "/unimelb/static/js/2.28d7f4f2.chunk.js.map",
+    "index.html": "/unimelb/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/unimelb/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.28d7f4f2.chunk.js.LICENSE.txt": "/unimelb/static/js/2.28d7f4f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc052fab.js",
+    "static/js/2.28d7f4f2.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.d3f6bf8d.chunk.js"
+  ]
+}
